@@ -4,8 +4,8 @@
 	"description": "A free Design Challenge taken from Frontend Mentor",
 	"main": "index.js",
 	"scripts": {
-		"build": "npx tailwindcss -i ./input.css -o ./output.css",
-		"watch": "npx tailwindcss -i ./input.css -o ./output.css --watch"
+		"build": "tailwindcss -i ./input.css -o ./css/main.css",
+		"watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
 	},
 	"repository": {
 		"type": "git",
