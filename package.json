@@ -1,0 +1,23 @@
+{
+  "name": "t_css_landing_page",
+  "version": "1.0.0",
+  "description": "A free Design Challenge taken from Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junaidhkn/t_css_landing_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junaidhkn/t_css_landing_page/issues"
+  },
+  "homepage": "https://github.com/Junaidhkn/t_css_landing_page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
